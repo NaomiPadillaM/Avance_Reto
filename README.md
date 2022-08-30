@@ -72,6 +72,11 @@
 
 <iframe src="https://matriz-confusion-pca.netlify.app/" height="500" width="500"></iframe>
 
+## Valores SHAP
 
+![](/images/shapcolumnas.png)
 
+![](/images/shapviolin.png)
+
+![](/images/shapejemplo.png)
 
