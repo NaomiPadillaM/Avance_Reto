@@ -36,7 +36,7 @@
 
 ### Matriz de dispersión
 
-<iframe src="https://matriz-dispersion1.netlify.app/" height="600" width="800"></iframe>
+<iframe src="https://matriz-dispersion1.netlify.app/" height="600" width="900"></iframe>
 
 ## Boxplots
 
@@ -52,13 +52,13 @@
 
 ### Corporales
 
-<iframe src="https://matriz-km-corporal.netlify.app" height="500" width="800"></iframe>
+<iframe src="https://matriz-km-corporal.netlify.app" height="500" width="900"></iframe>
 
 <iframe src="https://sunburst-corporal.netlify.app" height="500" width="500"></iframe>
 
 ### Sanguineas
 
-<iframe src="https://matriz-km-sanguineas.netlify.app" height="500" width="800"></iframe>
+<iframe src="https://matriz-km-sanguineas.netlify.app" height="500" width="900"></iframe>
 
 <iframe src="https://sunburst-sanguineo.netlify.app" height="500" width="500"></iframe>
 
@@ -68,7 +68,7 @@
 
 <iframe src="https://varianza-acumulada-pca.netlify.app" height="500" width="900"></iframe>
 
-<iframe src="https://matriz-dispersion-pca.netlify.app/" height="500" width="800"></iframe>
+<iframe src="https://matriz-dispersion-pca.netlify.app/" height="500" width="900"></iframe>
 
 <iframe src="https://matriz-confusion-pca.netlify.app/" height="500" width="500"></iframe>
 
