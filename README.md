@@ -32,7 +32,7 @@
 
 ### Gráfico de Correlación
 
-<iframe src="https://correlacion.netlify.app/" height="500" width="500"></iframe>
+<iframe src="https://correlacion.netlify.app/" height="500" width="500" align="right"></iframe>
 
 ### Matriz de dispersión
 
