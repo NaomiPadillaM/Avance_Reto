@@ -30,4 +30,4 @@
 ## Estadística Descriptiva
 ![](/images/describe.png)
 
-<iframe src="https://correlacion.netlify.app/" height="400" width="900"></iframe>
+<iframe src="https://correlacion.netlify.app/" height="500" width="500"></iframe>
