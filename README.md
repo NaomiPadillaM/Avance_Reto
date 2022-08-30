@@ -33,7 +33,7 @@
 ### Gráfico de Correlación
 
 <br>
-<p> <iframe src="https://correlacion.netlify.app/" height="500" width="500" align="right"></iframe> </p>
+<p> <iframe src="https://correlacion.netlify.app/" height="500" width="500" align="middle"></iframe> </p>
 <br>
 
 
