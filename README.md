@@ -30,4 +30,48 @@
 ## Estadística Descriptiva
 ![](/images/describe.png)
 
+### Gráfico de Correlación
+
 <iframe src="https://correlacion.netlify.app/" height="500" width="500"></iframe>
+
+### Matriz de dispersión
+
+<iframe src="https://matriz-dispersion1.netlify.app/" height="1100" width="1300"></iframe>
+
+## Boxplots
+
+<iframe src="https://boxplot-colesterol.netlify.app" height="500" width="800"></iframe>
+
+<iframe src="https://boxplot-glucosa.netlify.app" height="500" width="800"></iframe>
+
+<iframe src="https://boxplot-edad.netlify.app" height="500" width="800"></iframe>
+
+<iframe src="https://boxplot-cintura-cadera.netlify.app" height="500" width="800"></iframe>
+
+## Clustering por variables
+
+### Corporales
+
+<iframe src="https://matriz-km-corporal.netlify.app" height="800" width="1500"></iframe>
+
+<iframe src="https://sunburst-corporal.netlify.app" height="500" width="500"></iframe>
+
+### Sanguineas
+
+<iframe src="https://matriz-km-sanguineas.netlify.app" height="800" width="1500"></iframe>
+
+<iframe src="https://sunburst-sanguineo.netlify.app" height="500" width="500"></iframe>
+
+## Análisis de Componentes Principales
+
+<iframe src="https://varianza-pca.netlify.app" height="500" width="900"></iframe>
+
+<iframe src="https://varianza-acumulada-pca.netlify.app" height="500" width="900"></iframe>
+
+<iframe src="https://matriz-dispersion-pca.netlify.app/" height="800" width="1500"></iframe>
+
+<iframe src="https://matriz-confusion-pca.netlify.app/" height="500" width="500"></iframe>
+
+
+
+
