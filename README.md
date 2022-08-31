@@ -32,7 +32,9 @@
 
 ### Gráfico de Correlación
 
-<iframe src="https://correlacion.netlify.app/" height="500" width="500" align="center"></iframe> 
+El equipo eligió el discurso nombrado “The danger of a single story” o, traducido al español, “El peligro de la historia única” por Chimamanda Ngozi Adichie. Este discurso enunciado para TedGlobal en Julio de 2009 en Oxford Inglaterra nos habla precisamente del riesgo que corremos al conocer únicamente una historia. La novelista defiende como su tesis que no es suficiente una historia para conocer algo o a alguien.
+
+<iframe src="https://correlacion.netlify.app/" height="500" width="500" align="left"></iframe> 
 
 ### Matriz de dispersión
 
