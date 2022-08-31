@@ -70,6 +70,8 @@
 
 <iframe src="https://matriz-dispersion-pca.netlify.app/" height="500" width="900"></iframe>
 
+## Matriz de confusión del modelo
+
 <iframe src="https://matriz-confusion-pca.netlify.app/" height="500" width="500"></iframe>
 
 ## Valores SHAP
