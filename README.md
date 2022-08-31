@@ -36,9 +36,7 @@
 
 <br>
 <p>
-  El equipo eligió el discurso nombrado “The danger of a single story” 
-  o, traducido al español, “El peligro de la historia única” 
-  por Chimamanda Ngozi  Adichie.
+  - El equipo eligió el discurso nombrado “The danger of a single story” o, traducido al español, “El peligro de la historia única” por Chimamanda Ngozi  Adichie.
 </p>
 <br>
 <br>
