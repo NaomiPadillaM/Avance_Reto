@@ -11,21 +11,21 @@
 ## Base de datos
 - _diabetes.csv_
 - 15 columnas x 390 filas
-  - _colesterol_: 
-  - _glucosa_:
-  - _hdl_chol_:
-  - _prop_col_hdl_:
-  - _edad_:
-  - _genero_:
-  - _altura_: 
-  - _peso_: 
-  - _IMC_: 
-  - _ps_sistolica_: 
-  - _ps_diastolica_: 
-  - _cintura_: 
-  - _caderas_: 
-  - _prop_cin_cad_: 
-  - _diabetes_:
+  - _colesterol_: nivel de colesterol en el paciente (mg/dL).
+  - _glucosa_: nivel de glucosa en el paciente (mg/dL).
+  - _hdl_chol_: nivel de colesterol HDL en el paciente (mg/dL).
+  - _prop_col_hdl_: 
+  - _edad_: edad del paciente (19 a 92).
+  - _genero_: género del paciente (female/ male)
+  - _altura_: estatura del paciente (pulgadas) **unidades**
+  - _peso_: peso corporal del paciente (lb) **unidades**
+  - _IMC_: Índice de Masa Corporal del paciente.
+  - _ps_sistolica_: presión arterial sistólica en el paciente (mmHg).
+  - _ps_diastolica_: presión arterial diastólica en el paciente (mmHg).
+  - _cintura_: medida de la cintura del paciente (**unidades**).
+  - _caderas_: medida de la cadera del paciente (**unidades**).
+  - _prop_cin_cad_: proporción de cintura cadera del paciente (**unidades**).
+  - _diabetes_: el paciente está o no diagnosticado con diabetes (No_diabetes/ Diabetes).
 
 ## Estadística Descriptiva
 ![](/images/describe.png)
