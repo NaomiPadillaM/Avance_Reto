@@ -1,8 +1,8 @@
 # Integrantes del equipo
 
-<p>Adrián Landaverde Nava
-  Jesús Reyes Rojas
-  Naomi Padilla Mora
+<p>Adrián Landaverde Nava<br>
+  Jesús Reyes Rojas<br>
+  Naomi Padilla Mora<br>
   Sabrina Nicole Rodriguez Salgado</p>
 
 ## Base de datos
