@@ -1,12 +1,9 @@
 # Integrantes del equipo
 
-> Adrián Landaverde Nava
-> 
-> Jesús Reyes Rojas
-> 
-> Naomi Padilla Mora
-> 
-> Sabrina Nicole Rodriguez Salgado
+<p>Adrián Landaverde Nava
+  Jesús Reyes Rojas
+  Naomi Padilla Mora
+  Sabrina Nicole Rodriguez Salgado</p>
 
 ## Base de datos
 - _diabetes.csv_
@@ -32,9 +29,7 @@
 
 ### Gráfico de Correlación
 
-<br>
 <p>El equipo eligió el discurso nombrado “The danger of a single story” o, traducido al español, “El peligro de la historia única” por Chimamanda Ngozi  Adichie.</p>
-<br>
 
 <iframe src="https://correlacion.netlify.app/" height="500" width="500"></iframe> 
 
