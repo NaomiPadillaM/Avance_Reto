@@ -13,23 +13,21 @@
   - _hdl_chol_: nivel de colesterol HDL en el paciente (mg/dL).
   - _prop_col_hdl_: 
   - _edad_: edad del paciente (19 a 92).
-  - _genero_: género del paciente (female/ male)
-  - _altura_: estatura del paciente (pulgadas) **unidades**
-  - _peso_: peso corporal del paciente (lb) **unidades**
+  - _genero_: género del paciente (female/ male).
+  - _altura_: estatura del paciente (pulgadas). 
+  - _peso_: peso corporal del paciente (lb). 
   - _IMC_: Índice de Masa Corporal del paciente.
   - _ps_sistolica_: presión arterial sistólica en el paciente (mmHg).
   - _ps_diastolica_: presión arterial diastólica en el paciente (mmHg).
-  - _cintura_: medida de la cintura del paciente (**unidades**).
-  - _caderas_: medida de la cadera del paciente (**unidades**).
-  - _prop_cin_cad_: proporción de cintura cadera del paciente (**unidades**).
+  - _cintura_: medida de la cintura del paciente. 
+  - _caderas_: medida de la cadera del paciente.
+  - _prop_cin_cad_: proporción de cintura cadera del paciente.
   - _diabetes_: el paciente está o no diagnosticado con diabetes (No_diabetes/ Diabetes).
 
 ## Estadística Descriptiva
 ![](/images/describe.png)
 
 ### Gráfico de Correlación
-
-<p>El equipo eligió el discurso nombrado “The danger of a single story” o, traducido al español, “El peligro de la historia única” por Chimamanda Ngozi  Adichie.</p>
 
 <iframe src="https://correlacion.netlify.app/" height="500" width="500"></iframe> 
 
